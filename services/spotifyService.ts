@@ -1,5 +1,5 @@
-const CLIENT_ID = '5151f9c710d94ed3bcb85a48bd0ec706';
-const CLIENT_SECRET = 'cc6362cb14014cce81d7d4e555185b6b';
+const CLIENT_ID = <client_id>;
+const CLIENT_SECRET = <client_secret>;
 const TOKEN_URL = "https://accounts.spotify.com/api/token";
 const PLAYLIST_ID = "3cEYpjA9oz9GiPac4AsH4n"; // Example playlist ID
 
