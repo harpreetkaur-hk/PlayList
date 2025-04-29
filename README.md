@@ -50,4 +50,4 @@ Join our community of developers creating universal apps.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
 ## PlayList Prototype
-![App Demo](PlayList-Prototype.gif)
+![App Demo](PlayList_Prototype.gif)
